@@ -100,17 +100,19 @@
 .pt{
     display: flex;
     width: 550px;
-    height: 150px;
-    padding-bottom: 20px;
+    height: 250px;
+    margin-right: 50px;
+    margin-left: 0px;
+    padding-bottom: 40px;
     
 }
 .p1{
     font-family: 'Times New Roman';
     text-align: left;
-    padding-left: 40px;
-    padding-right: 50px;
+    padding-left: 100px;
+    padding-right: 0px;
     font-weight: bold;
-    font-size: 23px;
+    font-size: 40px;
 }
 .pa{
     font-size: 15px;
@@ -118,17 +120,15 @@
     margin-top: 0%;
 }
 .ig{
-    height: 155px;
+    height: 300px;
     padding-right: 40px;
-    padding-left: 20px;
+    padding-left: 50px;
+    margin-bottom: 1000px;
 }
-.shiv{
-    width: 40%;
-    height: 58%;
-    position: absolute;
-    left: 55%;
-    bottom: -1290px;
+.ig2{
+    padding-left: 230px;
 }
+
 .foot{
     text-align: center;
     background-color: rgb(37, 35, 35);
